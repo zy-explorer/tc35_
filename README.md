@@ -1,2 +1,3 @@
 # tc35_
-GSM module sends message with STC89C52
+
+I want to do send messages by GSM module with STC89C52.
